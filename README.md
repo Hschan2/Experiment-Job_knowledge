@@ -1,1 +1,9 @@
-# Necessary-knowledge
+# What is Readme?
+개발 지식, 전산 지식 등 IT 업무에 필요한 지식을 학습하기 위한 장소입니다.
+
+***
+
+# 전산 기초
+### 💡개발 상식 (LINK)[]
+
+
