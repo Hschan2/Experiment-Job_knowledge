@@ -6,5 +6,6 @@
 # 전산 기초
 ### 💡개발 상식
 * 좋은 코드란 무엇인가? [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Computer%20Basics.md)
-
-
+   
+# 각 분야별
+### 🔶FrontEnd 상식
