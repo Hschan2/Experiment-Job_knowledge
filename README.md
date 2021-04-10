@@ -1,4 +1,4 @@
-# What is Readme?
+# What is this?
 개발 지식, 전산 지식 등 IT 업무에 필요한 지식을 학습하기 위한 장소입니다.
 
 ***
