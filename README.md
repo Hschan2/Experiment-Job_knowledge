@@ -10,3 +10,5 @@
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
 
+### 🔶Network 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Network.md)
+
