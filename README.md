@@ -13,4 +13,4 @@
 ### 🔶Network 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Network.md)
 
 # TIPS
-### 💎유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Questions.md)
+### 💎유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5_%ED%8C%81.md)
