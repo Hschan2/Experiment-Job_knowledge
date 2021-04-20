@@ -9,6 +9,12 @@
    
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
+* HTTP에서 GET과 POST 방식 비교
+* TCP 3-Way Handshake
+* TCP와 UDP
+* HTTP와 HTTPS
+* DNS Round Robin 방식
+* 웹 통신의 큰 흐름
 
 ### 🔶Network 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Network.md)
 
