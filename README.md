@@ -9,14 +9,22 @@
    
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
+* 브라우저의 동작 원리
+* Document Object Model (DOM)
+* CORS (Cross-Origin Resource Sharing)
+* Cross-Browsing (크로스 브라우징)
+* 웹 성능과 관련된 Issue
+* 서버 사이드 렌더링 vs 클라이언트 사이드 렌더링
+* CSS Methodology
+* Normalize vs Reset
+
+### 🔶Network 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Network.md)
 * HTTP에서 GET과 POST 방식 비교
 * TCP 3-Way Handshake
 * TCP와 UDP
 * HTTP와 HTTPS
 * DNS Round Robin 방식
 * 웹 통신의 큰 흐름
-
-### 🔶Network 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Network.md)
 
 # TIPS
 ### 💎유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5_%ED%8C%81.md)
