@@ -26,6 +26,10 @@
 * DNS Round Robin 방식
 * 웹 통신의 큰 흐름
 
+# 각 언어별
+### ⭐Javascript [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Javascript.md)
+
+
 # Tips
 ### 💎유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5_%ED%8C%81.md)
 * HttpSession으로 개발했을 때, Key 값이 같다면 어떻게 분리하는가?
