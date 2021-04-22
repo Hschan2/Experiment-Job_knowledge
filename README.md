@@ -4,8 +4,17 @@
 ***
 
 # 전산 기초
-### 💡개발 상식
-* 좋은 코드란 무엇인가? [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Computer%20Basics.md)
+### 💡개발 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Computer%20Basics.md)
+* 좋은 코드란 무엇인가?
+* 읽기 쉬운 코드
+* 테스트하기 용이한 코드
+* 중복이 없는 코드
+* 좋지 않은 코드를 사용하게 되는 이유
+* 좋지 않은 코드 줄이기
+* 추출이 아닌, 추상화
+* 삭제하기 쉬운 코드, 삭제하기 어려운 코드로 분리
+* 일관성 있는 코드
+* 확장성 있는 코드
    
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
