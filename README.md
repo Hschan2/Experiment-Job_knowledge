@@ -28,7 +28,13 @@
 
 # 각 언어별
 ### ⭐Javascript [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Javascript.md)
-
+* Javascript Event Loop
+* Hoisting
+* Closure
+* this
+* Promise
+* Async/Await
+* Arrow Function
 
 # Tips
 ### 💎유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5_%ED%8C%81.md)
