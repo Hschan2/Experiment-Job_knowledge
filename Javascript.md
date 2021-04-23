@@ -23,7 +23,7 @@ function bar(x) {
 console.log(bar(1));
 ```
 bar 함수를 호출하여 이에 해당하는 스택 프레임이 만들어지고, 그 안에 y와 같은 local variable과 arguments가 함께 생성된다. 그리고 bar 함수는 foo 함수를 호출하였지만 bar 함수는 아직 종료되지 않아 pop이 되지 않고 호출된 foo 함수가 Call Stack에 push가 된다.   
-foo 함수에서는 a + b라는 값을 return 하여 함수의 역할을 모두 마쳤으므로 Stack에서 pop이 된다. 다시 bar 함수로 돌아아ㅗ foo 함수로부터 받은 값을 return하여 bar 함수도 종료되고 Stack에서 pop이 된다.
+foo 함수에서는 a + b라는 값을 return 하여 함수의 역할을 모두 마쳤으므로 Stack에서 pop이 된다. 다시 bar 함수로 돌아와 foo 함수로부터 받은 값을 return하여 bar 함수도 종료되고 Stack에서 pop이 된다.
 
 #### Heap
 동적으로 생성된 객체(인스턴스)는 Heap에 할당된다. 대부분 구조화되지 않은 더미같은 메모리 영역을 Heap이라고 한다.
