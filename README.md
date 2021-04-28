@@ -43,7 +43,19 @@
 * this
 * Promise
 * Async/Await
-* Arrow Function
+* Arrow Function   
+
+### ⭐Java [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Java.md)
+* JVM (Java Virtual Machine)
+* GC (Garbage Collection)
+* Collection
+* Annotation
+* Generic
+* Final Keyword
+* Overriding vs Overloading
+* Access Modifier
+* Wrapper Class
+* Multi-Thread 환경에서의 개발   
 
 # Tips
 ### 💎유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5_%ED%8C%81.md)
