@@ -13,6 +13,9 @@
 * 삭제하기 쉬운 코드, 삭제하기 어려운 코드로 분리
 * 일관성 있는 코드
 * 확장성 있는 코드
+
+### 💡디자인 패턴 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Computer%20Basics.md)
+* Singleton
    
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
