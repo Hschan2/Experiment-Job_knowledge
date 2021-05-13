@@ -14,7 +14,7 @@
 * 일관성 있는 코드
 * 확장성 있는 코드
 
-### 💡디자인 패턴 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Computer%20Basics.md)
+### 💡디자인 패턴 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Design%20Pattern.md)
 * Singleton
    
 # 각 분야별
