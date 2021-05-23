@@ -16,6 +16,9 @@
 
 ### 💡디자인 패턴 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Design%20Pattern.md)
 * Singleton
+
+### 💡알고리즘 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Algorithm.md)
+
    
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
