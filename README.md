@@ -18,7 +18,13 @@
 * Singleton
 
 ### 💡알고리즘 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Algorithm.md)
-
+* 코딩 테스트를 위한 팁
+* 문제 해결을 위한 전략적 접근
+* 해결 방법 분류
+* 정렬 알고리즘 (Sorting Algorithm)
+* Non-Comparisons Sorting Algorithm
+* Prime Number Algorithm
+* Time Complexity
    
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
