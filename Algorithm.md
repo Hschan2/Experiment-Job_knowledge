@@ -183,7 +183,7 @@ Best-Case는 두 개의 Sub-problems의 크기가 동일한 경우가 된다. �
 공간 복잡도: O(log(N))   
 시간 복잡도: O(NlogN)   
 
-## non-Comparisons Sorting Algorithm
+## Non-Comparisons Sorting Algorithm
 Counting Sort, Radix Sort를 확인한다.
 
 ### Counting Sort
