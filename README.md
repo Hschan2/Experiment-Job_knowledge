@@ -28,7 +28,7 @@
 
 ### 💡머신러닝 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Machine%20Learning.md)
 * Cost Function
-* 1일 1영상 학습 [Link]()
+* 1일 1영상 학습 [Link](http://hunkim.github.io/ml/)
    
 # 각 분야별
 ### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
