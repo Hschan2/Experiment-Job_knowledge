@@ -82,4 +82,5 @@
 * 페이지 접속 혹은 자바스크립트의 속도가 느릴 때 확인하는 방법
 
 ## 경험
-### POSTECH Apple Developer Academy 지원 및 추가 합격 후기 [Link](https://github.com/Hschan2/Postech-Apple-Developer-Academy)
+* [POSTECH Apple Developer Academy 지원 및 추가 합격 후기](https://github.com/Hschan2/Postech-Apple-Developer-Academy)
+* [중견기업 I사 면접 후기](https://github.com/Hschan2/Experiment-Job_knowledge/blob/main/I%EC%82%AC%20%EB%A9%B4%EC%A0%91%20%ED%9B%84%EA%B8%B0.md)
