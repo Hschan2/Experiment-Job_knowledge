@@ -43,7 +43,7 @@
 
 <br />
 
-![1차불합격](https://user-images.githubusercontent.com/39434913/168424639-d199ee19-deae-4399-b02a-7f5b1b66c577.jpg)   
+![수정](https://user-images.githubusercontent.com/39434913/168424999-77680022-97d8-424f-89a6-d0e0ca2ca2c6.jpg)
 
 정말로 떨어졌다.   
 잘 못봤다고 생각했고 떨어지겠지라고 생각하긴 했지만 정말로 떨어지니 아쉽고 기분이 좀 그렇다.   
