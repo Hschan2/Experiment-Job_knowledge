@@ -2,7 +2,7 @@
 개발 지식, 전산 지식 등 IT 업무에 필요한 지식을 학습하기 위한 장소입니다.
 
 ## 전산 기초
-### 💡개발 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Computer%20Basics.md)
+### 💡 개발 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Computer%20Basics.md)
 * 좋은 코드란 무엇인가?
 * 읽기 쉬운 코드
 * 테스트하기 용이한 코드
@@ -14,10 +14,10 @@
 * 일관성 있는 코드
 * 확장성 있는 코드
 
-### 💡디자인 패턴 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Design%20Pattern.md)
+### 💡 디자인 패턴 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Design%20Pattern.md)
 * Singleton
 
-### 💡알고리즘 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Algorithm.md)
+### 💡 알고리즘 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Algorithm.md)
 * 코딩 테스트를 위한 팁
 * 문제 해결을 위한 전략적 접근
 * 해결 방법 분류
@@ -26,12 +26,12 @@
 * Prime Number Algorithm
 * Time Complexity
 
-### 💡머신러닝 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Machine%20Learning.md)
+### 💡 머신러닝 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Machine%20Learning.md)
 * Cost Function
 * 1일 1영상 학습 [Link](http://hunkim.github.io/ml/)
    
 ## 각 분야별
-### 🔶FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
+### 🔶 FrontEnd 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/FrontEnd.md)
 * 브라우저의 동작 원리
 * Document Object Model (DOM)
 * CORS (Cross-Origin Resource Sharing)
@@ -41,7 +41,7 @@
 * CSS Methodology
 * Normalize vs Reset
 
-### 🔶Network 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Network.md)
+### 🔶 Network 상식 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Network.md)
 * HTTP에서 GET과 POST 방식 비교
 * TCP 3-Way Handshake
 * TCP와 UDP
@@ -50,7 +50,7 @@
 * 웹 통신의 큰 흐름
 
 ## 각 언어별
-### ⭐Javascript [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Javascript.md)
+### ⭐ Javascript [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Javascript.md)
 * Javascript Event Loop
 * Hoisting
 * Closure
@@ -59,7 +59,7 @@
 * Async/Await
 * Arrow Function   
 
-### ⭐Java [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Java.md)
+### ⭐ Java [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/Java.md)
 * JVM (Java Virtual Machine)
 * GC (Garbage Collection)
 * Collection
@@ -72,7 +72,7 @@
 * Multi-Thread 환경에서의 개발   
 
 ## Tips
-### 💎유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5_%ED%8C%81.md)
+### 💎 유튜브 개발바닥 질문 팁 [Link](https://github.com/Hschan2/Necessary-knowledge/blob/main/%EA%B0%9C%EB%B0%9C%EB%B0%94%EB%8B%A5_%ED%8C%81.md)
 * HttpSession으로 개발했을 때, Key 값이 같다면 어떻게 분리하는가?
 * JPA N + 1이 발생했을 때, 원인과 해결 방법이 무엇이며 Join 쿼리를 이용하면 어떻게 되는가?
 * 단방향과 양방향 바인딩의 차이점
@@ -82,7 +82,7 @@
 * 페이지 접속 혹은 자바스크립트의 속도가 느릴 때 확인하는 방법
 
 ## 경험
-### 기업 지원 경험 [Link](https://github.com/Hschan2/Experiment-Job_knowledge/tree/main/Experiment)
+### 💦 기업 지원 경험 [Link](https://github.com/Hschan2/Experiment-Job_knowledge/tree/main/Experiment)
 * I사 IT 계열사
 * K사 IT 아카데미
 * Postech Apple Developer Academy(포스텍 애플 디벨로퍼 아카데미)
